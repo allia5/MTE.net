@@ -1,0 +1,6 @@
+
+RewriteEngine On 
+
+DirectoryIndex Login
+
+RewriteRule ^Login Login.php [NC,L] 

@@ -1,0 +1,9 @@
+RewriteEngine On
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond $l !^(hello)
+
+RewriteRule ^Admin View_Admin.php [NC,L] 
+RewriteRule ^First Afficher_page_enseignant.php [NC,L] 
+
+

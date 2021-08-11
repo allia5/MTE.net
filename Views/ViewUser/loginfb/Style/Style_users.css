@@ -1,0 +1,22 @@
+.hello {
+    background: rgb(19, 18, 18, 0.2);
+}
+
+#container_primaire {
+    margin-top: 100px;
+}
+
+#container_niveaux {
+    margin-top: 100px;
+    display: none;
+}
+
+#container_module {
+    margin-top: 100px;
+    display: none;
+}
+
+#container_profe {
+    margin-top: 100px;
+    display: none;
+}

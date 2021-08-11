@@ -1,0 +1,93 @@
+header {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+header .choix {
+    width: 30%;
+    background: rgb(229, 238, 226);
+    padding-bottom: 20%;
+}
+
+header .travaille {
+    width: 70%;
+    height: 100%;
+}
+
+header .choix div {
+    line-height: 50px;
+    width: 100%;
+    border-bottom: 1px solid black;
+}
+
+header .choix a :hover {
+    background: rgb(60, 99, 48);
+}
+
+#Liste_enseignant {
+    width: 100%;
+    height: 100%;
+    display: none;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+#Liste_demmande {
+    width: 100%;
+    height: 100%;
+    display: none;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.count {
+    text-align: center;
+    width: 30%;
+}
+
+#btn_l {
+    display: none;
+    width: 100%;
+}
+
+@media only screen and (max-width: 600px) {
+    header .travaille {
+        width: 100%;
+    }
+    header {
+        display: block;
+        width: 100%;
+    }
+    header .choix {
+        text-align: center;
+        width: 100%;
+        background: rgb(229, 238, 226);
+        height: 100%;
+        padding-bottom: 0%;
+    }
+    #Liste_enseignant {
+        text-align: center;
+        width: 100%;
+        height: 100%;
+        display: none;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    #Liste_demmande {
+        text-align: center;
+        width: 100%;
+        height: 100%;
+        display: none;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .img {
+        background: black;
+        height: 50%;
+    }
+    .count {
+        width: 100%;
+        text-align: center;
+    }
+}

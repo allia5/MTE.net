@@ -1,0 +1,27 @@
+.header {
+    background-image: linear-gradient(to right, rgb(36, 59, 44), rgb(60, 73, 54), rgb(75, 102, 77), rgb(111, 145, 111), rgb(169, 212, 165));
+    text-align: center;
+    color: #ffffff;
+}
+
+.choix1 {
+    display: flex;
+}
+
+.choix2 {
+    display: flex;
+}
+
+.hello {
+    background: black !important;
+    margin: 10% 30% 0% 30%;
+    background: rgba(119, 119, 119, 0.7);
+}
+
+@media only screen and (max-width: 600px) {
+    .hello {
+        background: black;
+        background: rgb(0, 0, 0, 0.7);
+        margin: 10% 10% 0% 10%;
+    }
+}

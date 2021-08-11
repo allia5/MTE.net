@@ -1,0 +1,5 @@
+RewriteEngine On
+
+# RewriteRule ^(.+)$  Page_Pub_Enseignant.php/$l [L]
+
+RewriteRule ^Enseignant Page_Pub_Enseignant.php [NC,L]

@@ -1,0 +1,33 @@
+cmd laravel
+1 --> composer create-project --prefer-dist laravel/laravel nomfichier
+2--> cd nomfichier/php artisan serve
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <div class="count" >
+                    <div tyle="width: 20%;">
+                        <img src="img/compte.png" style="width: 100%;" alt="">
+                    </div>
+                    <div style="text-align: center;">
+                        <a>nom:ramzi</a><br>
+                        <a>prenome:allia</a><br>
+                        <a>niveaux: 1am</a><br>
+
+                    </div>
+                    <div style="width: 100%; text-align: center;">
+
+                    <button style="width: 100%;" type="button" class="btn btn-secondary">voir les publication</button><br>
+                    <button style="width: 100%;" type="button" class="btn btn-danger">supprimrer</button> 
+                    </div>
+
+                </div>

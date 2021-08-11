@@ -1,0 +1,7 @@
+.header {
+    background-image: linear-gradient(to right, rgb(36, 59, 44), rgb(60, 73, 54), rgb(75, 102, 77), rgb(111, 145, 111), rgb(169, 212, 165));
+    text-align: center;
+    color: #ffffff;
+}
+
+@media only screen and (max-width: 600px) {}
