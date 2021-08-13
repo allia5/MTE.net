@@ -7,6 +7,11 @@ Au départ, et à la lumière de cette pandémie de *Corona* et de son impact su
   - Assurer le suivi du déroulement des cours par le tuteur de l'élève
   - Communication entre l'élève et l'enseignant
   - Établir un terrain d'entente pour l'enseignement à distance
+  # architecture de ce projet 
+  ---
+  views -> services -> managers -> base de donne
+  
+  ---
 
  
 
