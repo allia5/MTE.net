@@ -1,4 +1,4 @@
-![user](https://user-images.githubusercontent.com/53237827/129344884-acf6fb2b-91c5-41d2-bc28-0d5bf7c2f7b5.PNG)
+
 # présentation de projet 
 Au départ, et à la lumière de cette pandémie de *Corona* et de son impact sur la situation éducative de nos enfants au primaire, j'ai créé ce projet, qui représente un modèle de suivi des cours des parents.
 # description
@@ -14,11 +14,11 @@ Au départ, et à la lumière de cette pandémie de *Corona* et de son impact su
   
   ---
 # des captures ce projet:
-- photo travaille professeur :
+## photo travaille professeur :
  ![enseignant](https://user-images.githubusercontent.com/53237827/129344931-1dd3bc42-ccf9-49b7-bc0b-c8195d159494.PNG)
- - photo travaille directeur :
+## photo travaille directeur :
  ![admin](https://user-images.githubusercontent.com/53237827/129344991-b28a14e7-a1ba-40b3-96c2-f37698bfa478.PNG)
- - photo travaille tuteur de l'étudian :
+## photo travaille tuteur de l'étudian :
 ![user](https://user-images.githubusercontent.com/53237827/129345024-1e551592-57f9-4cbf-ad38-bd915df63e8a.PNG)
 
 
