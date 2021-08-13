@@ -19,7 +19,8 @@ Au départ, et à la lumière de cette pandémie de *Corona* et de son impact su
 ## photo travaille directeur :
  ![admin](https://user-images.githubusercontent.com/53237827/129344991-b28a14e7-a1ba-40b3-96c2-f37698bfa478.PNG)
 ## photo travaille tuteur de l'étudian :
-![user](https://user-images.githubusercontent.com/53237827/129345024-1e551592-57f9-4cbf-ad38-bd915df63e8a.PNG)
+![Capture web_13-8-2021_12110_localhost](https://user-images.githubusercontent.com/53237827/129349134-9812edd0-f875-4794-b0c0-29a8795fca5d.jpeg)
+
 
 
 
